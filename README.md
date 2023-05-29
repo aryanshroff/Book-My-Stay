@@ -1,0 +1,1 @@
+This is a README file for the Hotel Booking Project. The project aims to create a web-based application that allows users to search for hotels, view available rooms, and make reservations.
