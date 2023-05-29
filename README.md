@@ -73,7 +73,8 @@ git add .
 git commit -m"Version 1.01 commit"
 ```
 Then copy paste 
-image.png
+![image](https://github.com/aryanshroff/Book-My-Stay/assets/91611545/317a11b7-be09-4066-a32f-2bc955a734fb)
+
 
 
 
