@@ -22,7 +22,8 @@ const Header = () => {
             ></path>
           </svg>
 
-          <span className="font-bold text-xl">airbnc</span>
+          <span className="font-bold text-xl">Book-My-Stay</span>
+          
         </a>
         <div className="flex shadow-md shadow-gray-300 gap-2 border border-gray-300 rounded-full px-4 py-2">
           <div>Anywhere</div>

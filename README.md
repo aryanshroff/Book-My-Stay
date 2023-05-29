@@ -4,6 +4,8 @@ This is a README file for the Hotel Booking Project. The project aims to create 
 1. Features
 2. Installation
 3. Technologies Used
+4. Usage
+4. Extras
 
 ## Features
 
@@ -37,6 +39,41 @@ git clone https://github.com/aryanshroff/Book-My-Stay
 ```
 yarn install
 ```
+4. To run on a local host , navigate to front end folder
+```
+cd frontend
+yarn dev
+```
+(in the terminal)
+
+
 
 ## Technologies Used
+- MongoDB
+- Express.js
+- React
+- Node.js
+- HTML/CSS
+- JavaScript
+- Tailwind Css
+
+## Usage
+
+- Register a new user account or log in with existing credentials.
+- Use the hotel search feature to find hotels based on location and dates.
+- Select a hotel and choose a room type for reservation.
+- Proceed with the reservation process, providing necessary details.
+
+
+## Extras
+1. To push an existing repository fromt he command line
+```
+git init
+git add .
+git commit -m"Version 1.01 commit"
+```
+Then copy paste 
+image.png
+
+
 
